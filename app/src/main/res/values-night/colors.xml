@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gs_brown">#3A2A25</color>
+    <color name="gs_bg_card">#F7F7FA</color>
+    <color name="gs_bg_img">#F1F1F3</color>
+    <color name="gs_circle">#ECECEE</color>
+    <color name="gs_gray">#8E8E99</color>
+    <color name="gs_text_soft">#6B6B7A</color>
+    <color name="gs_stroke">#EFEFF3</color>
+    <color name="gs_red">#F0364D</color>
+    <color name="gs_banner_ph">#C9906F</color>
+    <color name="gs_green">#4E8B78</color>
+    <color name="gs_dark">#333333</color>
+    <color name="gs_cream">#FFFAF7</color>
+    <color name="gs_peach_circle">#FBEBE6</color>
+    <color name="gs_divider">#EDEDF0</color>
+    <color name="gs_size_bg">#F5F5F7</color>
+    <color name="gs_size_text">#C8C8D0</color>
+    <color name="gs_swatch_peach">#E8BFA5</color>
+    <color name="gs_swatch_coral">#EF6B6B</color>
+</resources>
